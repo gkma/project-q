@@ -1,0 +1,11 @@
+.quads-container {
+  border: 2px solid gold;
+  display: grid;
+  grid-template-columns: minmax(400px, 800px) minmax(400px, 800px);
+  grid-template-rows: minmax(200px, 300px) minmax(300px, 400px);
+  max-width: 98%
+  /* grid-template-rows: 50%; */
+  /* grid-template-columns: 50% 50%; */
+  /* grid-gap: 10px; */
+  /* height: 650px; */
+}
