@@ -1,3 +1,13 @@
+/**
+ * ************************************
+ *
+ * @module  jest.config.js
+ * @author Team Quail
+ * @description Jest Configuration
+ *
+ * ************************************
+ */
+
 module.exports = {
   "roots": [
     "<rootDir>/src"
